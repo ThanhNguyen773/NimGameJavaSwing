@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/Platform-Windows-brightgreen">
 <img src="https://img.shields.io/badge/GUI-Java Swing-blueviolet">
 <img src="https://img.shields.io/badge/Version-2.1-ff69b4">
+<img src="https://img.shields.io/badge/IDE-Eclipse-navy">
    
 </p>
 
@@ -31,7 +32,7 @@ Nim là một trò chơi cổ điển trong đó hai người lần lượt lấ
 
 2. **Chọn một đống để loại bỏ số lượng đối tượng:**
    - Chọn một đống.
-   - Nhấp vào nút màu đỏ 'dấu -'.
+   - Nhấp vào nút <img src="[https://img.shields.io/badge/IDE-Eclipse-navy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkEsctm1yE9xaCIOGxbXZIC1Y1Mq9S2otEm_NXAt_9sA&s)">
    - Nhập số lượng đối tượng bạn muốn loại bỏ.
    - Nhấp vào 'OK'.
 
