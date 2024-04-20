@@ -17,13 +17,13 @@ Nim là một trò chơi cổ điển trong đó hai người lần lượt lấ
 
 # Giao diện trò chơi
 <p align="left">
- <img height="400px" width="400px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20015805.png">
+ <img height="250px" width="250px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20015805.png">
 </p>
 <p align="center">
- <img height="400px" width="400px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20020001.png">
+ <img height="250px" width="250px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20020001.png">
 </p>
 <p align="right">
- <img height="400px" width="400px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20020037.png">
+ <img height="250px" width="250px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20020037.png">
 </p>
 ## Yêu cầu
 
