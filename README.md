@@ -46,9 +46,3 @@ Nim là một trò chơi cổ điển trong đó hai người lần lượt lấ
 Chúc bạn có những phút giây thú vị cùng trò chơi Nim!
 
 
-## Hướng dẫn cài đặt và chạy
-
-1. Clone repository về máy tính của bạn:
-
-   ```bash
-   git clone https://github.com/your-username/nim-game.git
