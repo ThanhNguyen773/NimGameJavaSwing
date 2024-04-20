@@ -32,7 +32,7 @@ Nim là một trò chơi cổ điển trong đó hai người lần lượt lấ
 
 2. **Chọn một đống để loại bỏ số lượng đối tượng:**
    - Chọn một đống.
-   - Nhấp vào nút <p><img src="[https://img.shields.io/badge/IDE-Eclipse-navy](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkEsctm1yE9xaCIOGxbXZIC1Y1Mq9S2otEm_NXAt_9sA&s)"></p>
+   - Nhấp vào nút <p><img src="https://www.dreamstime.com/square-red-minus-sign-icon-button-flat-remove-negative-symbol-isolated-white-background-square-red-minus-sign-icon-button-image190626170"></p>
    - Nhập số lượng đối tượng bạn muốn loại bỏ.
    - Nhấp vào 'OK'.
 
