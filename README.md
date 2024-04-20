@@ -16,13 +16,13 @@
 Nim là một trò chơi cổ điển trong đó hai người lần lượt lấy các vật thể từ một số ngăn xếp và người cuối cùng lấy vật thể cuối cùng là người thua cuộc. Trong phiên bản này, chúng tôi cung cấp một giao diện đồ họa sử dụng Java Swing để chơi trò chơi Nim một cách dễ dàng và thú vị.
 
 # Giao diện trò chơi
-<p align="center">
+<p align="left">
  <img height="400px" width="400px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20015805.png">
 </p>
 <p align="center">
  <img height="400px" width="400px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20020001.png">
 </p>
-<p align="center">
+<p align="right">
  <img height="400px" width="400px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20020037.png">
 </p>
 ## Yêu cầu
