@@ -1,0 +1,32 @@
+Tin nhắn:
+
+"Xin chào mọi người,
+
+Chúng tôi xin thông báo rằng trong phiên bản hiện tại của ứng dụng, không có tệp tin backgroundmusic.wav được bao gồm. Lý do cho điều này là do dung lượng của tệp âm thanh quá lớn, không thể tải lên GitHub cùng với mã nguồn của dự án.
+
+Tuy nhiên, bạn vẫn có thể tận hưởng âm nhạc trong trò chơi bằng cách thực hiện các bước sau:
+1. Tải xuống bất kỳ bài hát nào mà bạn muốn sử dụng trong trò chơi. Đảm bảo rằng bài hát có định dạng wav.
+2. Đổi tên bài hát thành 'backgroundmusic.wav'.
+3. Đặt tệp 'backgroundmusic.wav' vào thư mục của ứng dụng.
+
+Qua các bước trên, bạn có thể sử dụng bất kỳ bài hát nào bạn thích trong trò chơi mà không gặp phải lỗi. Chúng tôi xin lỗi vì sự bất tiện này và cảm ơn sự hiểu biết của bạn.
+
+Trân trọng,
+Nhóm phát triển."
+
+
+Message:
+
+"Hello everyone,
+
+We would like to inform you that in the current version of the application, the backgroundmusic.wav file is not included. The reason for this is that the size of the audio file is too large to be uploaded to GitHub along with the project's source code.
+
+However, you can still enjoy music in the game by following these steps:
+
+Download any song you want to use in the game. Make sure the song is in wav format.
+Rename the song to 'backgroundmusic.wav'.
+Place the 'backgroundmusic.wav' file into the application's directory.
+By following these steps, you can use any song you like in the game without encountering any errors. We apologize for any inconvenience this may cause and appreciate your understanding.
+
+Best regards,
+Development Team."
