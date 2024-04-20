@@ -34,14 +34,14 @@ Nim là một trò chơi cổ điển trong đó hai người lần lượt lấ
    - Nhấp vào 'Lưu Trò Chơi' để lưu trò chơi.
 
 5. **Trở về Menu Bắt Đầu:**
-   - Nhấp vào nút 'Trở lại Menu Bắt Đầu' để quay lại menu chính.
+   - Nhấp vào nút 'Menu' để quay lại menu chính.
 
 6. **Âm nhạc và hình nền:**
    - Nút 'Âm Nhạc' cho phép bạn bật và tắt âm nhạc.
    - Nút 'Đổi Hình Nền' cho phép bạn thay đổi hình nền bằng cách chọn file hình ảnh từ thiết bị của bạn.
 
 7. **Tiếp tục trò chơi đã lưu:**
-   - Bạn cũng có thể tiếp tục một trò chơi đã được lưu bằng cách chọn tùy chọn này trong menu.
+   - Bạn cũng có thể tiếp tục một trò chơi đã được lưu bằng cách chọn tùy chọn này trong Start Menu.
 
 Chúc bạn có những phút giây thú vị cùng trò chơi Nim!
 
