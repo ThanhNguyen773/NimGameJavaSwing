@@ -53,6 +53,6 @@ Nim là một trò chơi cổ điển trong đó hai người lần lượt lấ
 
 <h4>Chúc bạn có những phút giây thú vị cùng trò chơi Nim!</h4>
 
- <h3><i>Developer - tnpu -</i></h3>
+ <h3><i>Developer - tnpu </i></h3>
 
 
