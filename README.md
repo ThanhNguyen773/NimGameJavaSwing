@@ -2,7 +2,7 @@
 
 Đây là một trò chơi Nim đơn giản được viết bằng Java Swing.
 
-# Project Information
+# Giới thiệu dự án
 <p align="left">  
 <img src="https://img.shields.io/badge/Language-Java-blue">
 <img src="https://img.shields.io/badge/Platform-Windows-brightgreen">
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Version-2.1-ff69b4">
    
 </p>
-#Giới thiệu
+
 
 Nim là một trò chơi cổ điển trong đó hai người lần lượt lấy các vật thể từ một số ngăn xếp và người cuối cùng lấy vật thể cuối cùng là người thua cuộc. Trong phiên bản này, chúng tôi cung cấp một giao diện đồ họa sử dụng Java Swing để chơi trò chơi Nim một cách dễ dàng và thú vị.
 
