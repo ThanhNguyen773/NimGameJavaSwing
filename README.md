@@ -51,6 +51,8 @@ Nim là một trò chơi cổ điển trong đó hai người lần lượt lấ
 7. **Tiếp tục trò chơi đã lưu:**
    - Bạn cũng có thể tiếp tục một trò chơi đã được lưu bằng cách chọn tùy chọn này trong Start Menu.
 
-Chúc bạn có những phút giây thú vị cùng trò chơi Nim!
+<h4>Chúc bạn có những phút giây thú vị cùng trò chơi Nim!</h4>
+
+ <h3><i>Developer - tnpu -</i></h3>
 
 
