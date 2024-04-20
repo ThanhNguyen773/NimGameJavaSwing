@@ -23,7 +23,7 @@ Nim là một trò chơi cổ điển trong đó hai người lần lượt lấ
  <img height="400px" width="400px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20020001.png">
 </p>
 <p align="center">
- <img height="4000px" width="400px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20020037.png">
+ <img height="400px" width="400px" src="https://github.com/ThanhNguyen773/NimGameJavaSwing/blob/main/NIMpreview/Screenshot%202024-04-21%20020037.png">
 </p>
 ## Yêu cầu
 
